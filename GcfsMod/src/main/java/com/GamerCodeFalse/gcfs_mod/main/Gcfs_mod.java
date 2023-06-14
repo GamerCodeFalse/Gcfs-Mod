@@ -1,4 +1,4 @@
-package com.GamerCodeFalse.gcfs_mod;
+package com.GamerCodeFalse.gcfs_mod.main;
 
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
